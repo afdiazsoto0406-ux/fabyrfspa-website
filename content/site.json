@@ -1,65 +1,16 @@
 {
-  "name": "Faby RF Beauty & Spa",
-  "eyebrow": "Belleza · Bienestar · Confianza",
-  "title": "Tu momento de cuidarte empieza aquí.",
-  "heroText": "Tratamientos faciales, corporales, relajación y recuperación con atención personalizada en Aurora, Colorado.",
-  "servicesTitle": "Servicios pensados para ti",
-  "servicesIntro": "Una experiencia de spa cálida, elegante y enfocada en ayudarte a verte y sentirte mejor.",
-  "services": [
-    {
-      "title": "Limpieza facial profunda",
-      "description": "Cuidado profesional para limpiar, hidratar y devolver luminosidad a tu piel.",
-      "image": "facial.jpeg"
-    },
-    {
-      "title": "Masajes postoperatorios",
-      "description": "Drenaje linfático y acompañamiento para una recuperación más cómoda.",
-      "image": "postoperatorio.jpeg"
-    },
-    {
-      "title": "Yesoterapia abdominal",
-      "description": "Tratamiento corporal enfocado en moldear, reafirmar y apoyar tus objetivos estéticos.",
-      "image": "yesoterapia.jpeg"
-    },
-    {
-      "title": "Rehabilitación muscular",
-      "description": "Terapias orientadas al bienestar, movilidad y alivio de molestias musculares.",
-      "image": "rehabilitacion.jpeg"
-    },
-    {
-      "title": "Sueroterapia e inyectología",
-      "description": "Servicios disponibles con cita según evaluación y necesidades individuales.",
-      "image": "sueroterapia.jpeg"
-    },
-    {
-      "title": "Masajes y relajación",
-      "description": "Un momento para desconectarte, descansar y recuperar tu sensación de bienestar.",
-      "image": "reservas.jpeg"
-    }
-  ],
-  "wellTitle": "Bienestar que se siente",
-  "wellText": "Cada tratamiento se adapta a tus objetivos y necesidades. Trabajamos con cita para brindarte una experiencia tranquila y dedicada.",
-  "benefits": [
-    "Atención personalizada",
-    "Ambiente cómodo y relajante",
-    "Variedad de tratamientos faciales y corporales",
-    "Reserva fácil por WhatsApp"
-  ],
-  "whatsapp": "17209570278",
-  "phone": "720 957 0278",
-  "location": "Aurora, Colorado 80012",
-  "hours": "Lunes a sábado · 8:00 AM – 6:00 PM · Atención solo con cita",
-  "instagram": "https://www.instagram.com/fabyrfspa",
-  "tiktok": "https://www.tiktok.com/@fabysparf",
-  "facebook": "https://www.facebook.com/share/1GNUm9nxko/",
-  "green": "#123f2a",
   "gold": "#c79b43",
   "cream": "#fbf7ef",
-  "images": {
-    "logo": "assets/logo.jpeg",
-    "hero": "assets/reservas.jpeg",
-    "well": "assets/rehabilitacion.jpeg"
-  },
+  "green": "#123f2a",
+  "facebook": "https://www.facebook.com/share/1GNUm9nxko/",
+  "heroText": "Tratamientos faciales, corporales, relajación y recuperación con atención personalizada en Aurora, Colorado.",
+  "eyebrow": "Belleza · Bienestar · Confianza ✨",
+  "wellTitle": "Bienestar que se siente",
+  "name": "Faby RF Beauty & Spa",
+  "servicesIntro": "Una experiencia de spa cálida, elegante y enfocada en ayudarte a verte y sentirte mejor.",
+  "phone": "720 957 0278",
+  "hours": "Lunes a sábado · 8:00 AM – 6:00 PM · Atención solo con cita",
+  "whatsapp": "17209570278",
   "gallery": [
     {
       "id": "default-facial",
@@ -90,6 +41,55 @@
       "type": "video",
       "src": "assets/video1.mp4",
       "name": "Video Faby Spa"
+    }
+  ],
+  "instagram": "https://www.instagram.com/fabyrfspa",
+  "location": "Aurora, Colorado 80012",
+  "title": "Tu momento de cuidarte empieza aquí.",
+  "images": {
+    "logo": "assets/logo.jpeg",
+    "hero": "assets/reservas.jpeg",
+    "well": "assets/rehabilitacion.jpeg"
+  },
+  "servicesTitle": "Servicios pensados para ti",
+  "tiktok": "https://www.tiktok.com/@fabysparf",
+  "wellText": "Cada tratamiento se adapta a tus objetivos y necesidades. Trabajamos con cita para brindarte una experiencia tranquila y dedicada.",
+  "benefits": [
+    "Atención personalizada",
+    "Ambiente cómodo y relajante",
+    "Variedad de tratamientos faciales y corporales",
+    "Reserva fácil por WhatsApp"
+  ],
+  "services": [
+    {
+      "title": "Limpieza facial profunda",
+      "description": "Cuidado profesional para limpiar, hidratar y devolver luminosidad a tu piel.",
+      "image": "facial.jpeg"
+    },
+    {
+      "title": "Masajes postoperatorios",
+      "description": "Drenaje linfático y acompañamiento para una recuperación más cómoda.",
+      "image": "postoperatorio.jpeg"
+    },
+    {
+      "title": "Yesoterapia abdominal",
+      "description": "Tratamiento corporal enfocado en moldear, reafirmar y apoyar tus objetivos estéticos.",
+      "image": "yesoterapia.jpeg"
+    },
+    {
+      "title": "Rehabilitación muscular",
+      "description": "Terapias orientadas al bienestar, movilidad y alivio de molestias musculares.",
+      "image": "rehabilitacion.jpeg"
+    },
+    {
+      "title": "Sueroterapia e inyectología",
+      "description": "Servicios disponibles con cita según evaluación y necesidades individuales.",
+      "image": "sueroterapia.jpeg"
+    },
+    {
+      "title": "Masajes y relajación",
+      "description": "Un momento para desconectarte, descansar y recuperar tu sensación de bienestar.",
+      "image": "reservas.jpeg"
     }
   ]
 }
