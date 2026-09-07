@@ -15,26 +15,26 @@
     {
       "id": "default-facial",
       "type": "image",
-      "src": "assets/facial.jpeg",
-      "name": "Limpieza facial"
+      "src": "/assets/uploads/imagen-spa-1.jpeg",
+      "name": "Control acne"
     },
     {
       "id": "default-post",
       "type": "image",
-      "src": "assets/postoperatorio.jpeg",
-      "name": "Masajes postoperatorios"
+      "src": "/assets/uploads/whatsapp-image-2026-09-06-at-8.37.32-pm.jpeg",
+      "name": "Tratamiento de melasma "
     },
     {
       "id": "default-yeso",
       "type": "image",
-      "src": "assets/yesoterapia.jpeg",
-      "name": "Yesoterapia"
+      "src": "/assets/uploads/whatsapp-image-2026-09-06-at-8.37.56-pm.jpeg",
+      "name": "Masaje reductor"
     },
     {
       "id": "default-suero",
       "type": "image",
-      "src": "assets/sueroterapia.jpeg",
-      "name": "Sueroterapia"
+      "src": "/assets/uploads/whatsapp-image-2026-09-06-at-8.56.27-pm.jpeg",
+      "name": "Tratamiento antienvejecimiento (lifting facial)"
     },
     {
       "id": "default-video1",
