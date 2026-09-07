@@ -21,7 +21,7 @@
     {
       "id": "default-post",
       "type": "image",
-      "src": "/assets/uploads/whatsapp-image-2026-09-06-at-8.37.32-pm.jpeg",
+      "src": "/assets/uploads/whatsapp-image-2026-09-06-at-8.38.19-pm.jpeg",
       "name": "Tratamiento de melasma "
     },
     {
@@ -39,7 +39,7 @@
     {
       "id": "default-video1",
       "type": "video",
-      "src": "assets/video1.mp4",
+      "src": "/assets/uploads/whatsapp-video-1.mp4",
       "name": "Video Faby Spa"
     }
   ],
