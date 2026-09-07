@@ -1,0 +1,7 @@
+Faby RF Beauty & Spa — versión GitHub + Netlify
+
+1. Sube EL CONTENIDO de esta carpeta al repositorio fabyrfspa-website.
+2. No subas el archivo ZIP dentro del repositorio.
+3. Después conectaremos ese repositorio a Netlify.
+4. La sección “Síguenos” ya tiene iconos clicables para Instagram, TikTok, Facebook y WhatsApp.
+5. /admin/ está preparado; la autenticación se termina de configurar después de conectar GitHub con Netlify.

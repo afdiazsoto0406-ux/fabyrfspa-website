@@ -1,0 +1,60 @@
+backend:
+  name: github
+  repo: afdiazsoto0406-ux/fabyrfspa-website
+  branch: main
+
+media_folder: "assets/uploads"
+public_folder: "/assets/uploads"
+
+locale: "es"
+
+collections:
+  - name: "configuracion"
+    label: "Página web"
+    files:
+      - name: "sitio"
+        label: "Faby RF Beauty & Spa"
+        file: "content/site.json"
+        format: "json"
+        fields:
+          - {label: "Nombre del negocio", name: "name", widget: "string"}
+          - {label: "Frase superior", name: "eyebrow", widget: "string"}
+          - {label: "Título principal", name: "title", widget: "string"}
+          - {label: "Texto principal", name: "heroText", widget: "text"}
+          - {label: "Título de servicios", name: "servicesTitle", widget: "string"}
+          - {label: "Introducción de servicios", name: "servicesIntro", widget: "text"}
+          - label: "Servicios"
+            name: "services"
+            widget: "list"
+            fields:
+              - {label: "Nombre", name: "title", widget: "string"}
+              - {label: "Descripción", name: "description", widget: "text"}
+              - {label: "Imagen", name: "image", widget: "image"}
+          - {label: "Título de bienestar", name: "wellTitle", widget: "string"}
+          - {label: "Texto de bienestar", name: "wellText", widget: "text"}
+          - {label: "Beneficios", name: "benefits", widget: "list", field: {label: "Beneficio", name: "benefit", widget: "string"}}
+          - {label: "WhatsApp (solo números con código de país)", name: "whatsapp", widget: "string"}
+          - {label: "Teléfono visible", name: "phone", widget: "string"}
+          - {label: "Ubicación", name: "location", widget: "string"}
+          - {label: "Horario", name: "hours", widget: "string"}
+          - {label: "Instagram", name: "instagram", widget: "string"}
+          - {label: "TikTok", name: "tiktok", widget: "string"}
+          - {label: "Facebook", name: "facebook", widget: "string"}
+          - {label: "Verde principal", name: "green", widget: "color"}
+          - {label: "Dorado", name: "gold", widget: "color"}
+          - {label: "Fondo crema", name: "cream", widget: "color"}
+          - label: "Imágenes principales"
+            name: "images"
+            widget: "object"
+            fields:
+              - {label: "Logo", name: "logo", widget: "image"}
+              - {label: "Portada", name: "hero", widget: "image"}
+              - {label: "Bienestar", name: "well", widget: "image"}
+          - label: "Galería"
+            name: "gallery"
+            widget: "list"
+            fields:
+              - {label: "ID", name: "id", widget: "string", required: false}
+              - {label: "Tipo", name: "type", widget: "select", options: ["image", "video"]}
+              - {label: "Archivo", name: "src", widget: "file"}
+              - {label: "Nombre", name: "name", widget: "string"}
