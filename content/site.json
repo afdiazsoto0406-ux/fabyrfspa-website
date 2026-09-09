@@ -41,6 +41,18 @@
       "type": "video",
       "src": "/assets/uploads/whatsapp-video-1.mp4",
       "name": "Video Faby Spa"
+    },
+    {
+      "src": "/assets/uploads/whatsapp-video-2026-09-06-at-8.56.40-pm.mp4",
+      "type": "video",
+      "id": "default-microneedling",
+      "name": "Tecnica de microneedling"
+    },
+    {
+      "src": "/assets/uploads/whatsapp-image-2026-09-06-at-8.36.00-pm.jpeg",
+      "id": "default-masajes reductores",
+      "type": "image",
+      "name": "Masaje reductores"
     }
   ],
   "instagram": "https://www.instagram.com/fabyrfspa",
